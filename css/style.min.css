@@ -19,3 +19,7 @@ body {
   display: -ms-flexbox;
   display: flex;
 }
+
+.red {
+  background-color: red;
+}
